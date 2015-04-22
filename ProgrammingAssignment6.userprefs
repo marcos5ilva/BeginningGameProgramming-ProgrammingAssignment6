@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="ProgrammingAssignment6\ProgrammingAssignment6.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment6\Message.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment6\Game1.cs" Line="307" Column="13" />
+      <File FileName="ProgrammingAssignment6\MenuButton.cs" Line="77" Column="6" />
+      <File FileName="ProgrammingAssignment6\GameState.cs" Line="13" Column="25" />
+      <File FileName="ProgrammingAssignment6\Message.cs" Line="41" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
